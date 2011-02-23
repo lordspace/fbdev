@@ -4,4 +4,4 @@ This PHP script accesses Facebook's API to: Get access token, create/delete a te
 Donation Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SY8MJ66FXDPQS
 Version: 1.0
 License: LGPL
-Credits: Jacques Perrault's posts href="http://forum.developers.facebook.net/viewtopic.php?id=81947
+Credits: Jacques Perrault's posts from http://forum.developers.facebook.net/viewtopic.php?id=81947
