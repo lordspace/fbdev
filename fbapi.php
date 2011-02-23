@@ -13,7 +13,6 @@ ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
 $instructions = <<<INSTR_EOF
-
 <strong>Instructions:</strong>
 First, get an access token by entering App ID and App Secret Key. After that only the token will be used to access the other functions.
 Note: None of the entered information is stored on my server.
