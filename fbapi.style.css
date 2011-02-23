@@ -1,0 +1,32 @@
+html {
+	height: 100%;
+	padding-bottom: 1px; /* force scrollbars */
+}
+
+body {
+	background: #FFF;
+	color: #444;
+	font: normal 100% sans-serif;
+	line-height: 1.5;
+}
+
+label {
+    width: 150px;
+}
+
+#pp_form { 
+    display:inline; 
+    vertical-align:top;
+}
+
+input[type=text] {
+    width: 320px;
+}
+
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
