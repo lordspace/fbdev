@@ -1,7 +1,12 @@
 This PHP script accesses Facebook's API to: Get access token, create/delete a test user, get test user list
 
 (C) 2011 Svetoslav Marinov <slavi@slavi.biz>
+
 Donation Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SY8MJ66FXDPQS
+Live Demo Link: http://slavi.biz/tools/fbdev/
+Download Link: https://github.com/lordspace/fbdev/zipball/master
+Credits: Jacques Perrault - http://forum.developers.facebook.net/viewtopic.php?id=81947
+Blog: http://devcha.com
+Main Site: http://WebWeb.ca
 Version: 1.0
 License: LGPL
-Credits: Jacques Perrault's posts from http://forum.developers.facebook.net/viewtopic.php?id=81947
